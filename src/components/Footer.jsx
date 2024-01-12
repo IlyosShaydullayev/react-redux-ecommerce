@@ -11,14 +11,14 @@ function Footer() {
           <p className="mb-3 mb-md-0 d-flex gap-3 align-items-center justify-content-center ">
             Mode With ❤️ by{" "}
             <Link
-              to="https://www.instagram.com/sunnatulloxsunnatullox/"
+              to="/"
               target="_blank"
               className="text-decoration-none"
             >
-              <IoLogoInstagram size={25} />: Sunnah
+              <IoLogoInstagram size={25} />: Ilyos Shaydullayev
             </Link>
             <Link
-              to="https://github.com/Sunnatullox"
+              to="https://github.com/IlyosShaydullayev"
               className="text-decoration-none"
               target="_blank"
             >
