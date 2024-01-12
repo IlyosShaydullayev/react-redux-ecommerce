@@ -22,7 +22,7 @@ function Footer() {
               className="text-decoration-none"
               target="_blank"
             >
-              <FaGithub size={25} />: Sunnah
+              <FaGithub size={25} />: Ilyos Shaydullayev
             </Link>
           </p>
         </div>
